@@ -1,6 +1,4 @@
 v1
-    - New feature 1
-    - New feature 2
-    - Fix 1
-    - Fix 2
-    - Goodies
+    - This replaces the Stock HTC Dialer and Contacts wiith the GPE Dialer & Contacts
+    - GPE Dialer v4.0.12
+    - Contacts v1.4.9
