@@ -36,7 +36,7 @@ CACHEMOD=false
 
 # This will be the folder name under /magisk or /cache/magisk
 # This should also be the same as the id in your module.prop to prevent confusion
-MODID=template
+MODID=GPEDialer_HTC10
 
 # Set to true if you need automount
 # Most mods would like it to be enabled
@@ -59,7 +59,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     GPE Dialer and Contacts   "
+  ui_print "         for the HTC 10        "
   ui_print "*******************************"
 }
 
@@ -73,15 +74,15 @@ print_modname() {
 
 # This is an example
 REPLACE="
-/system/app/Youtube
-/system/priv-app/SystemUI
-/system/priv-app/Settings
-/system/framework
+/system/priv-app/DialerService
+/system/priv-app/HtcContactsDialer
+/system/priv-app/HtcContactWidgets
+/system/priv-app/Telecomm
+/system/priv-app/Telephony
 "
 
 # Construct your own list
-REPLACE="
-"
+
 
 ##########################################################################################
 # Permissons
