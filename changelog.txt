@@ -1,6 +1,5 @@
 v2.0
     - Update to the Pixel Dialer and Contacts 
-
 v1.0
     - This replaces the Stock HTC Dialer and Contacts wiith the GPE Dialer & Contacts
     - GPE Dialer v4.0.12
