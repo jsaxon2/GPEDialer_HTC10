@@ -1,9 +1,9 @@
 id=GPEDialer_HTC10
 name=GPEDialer and Contacts for HTC 10
-version=v2.0.0
-versionCode=3
+version=v2.0.1
+versionCode=4
 author=jsaxon2
-description=GPEDialer(v5.1.13) and Contacts(v1.4.22) for HTC 10
+description=GPEDialer(v5.1.13) and Contacts(v1.5.16) for HTC 10
 support=http://forum.xda-developers.com/htc-10/themes/mod-gpe-dialer-contacts-magisk-mod-htc-t3463856
 donate=https://www.paypal.com/donate/?token=qfX6bls1Jp7u1fy5N6Hq2h56llB9xn__AVuZflYBjSgR9c0dIIn36K3vh-Og_WOxx95N-G
 cacheModule=false
