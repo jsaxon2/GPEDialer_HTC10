@@ -1,5 +1,6 @@
 v2.0.1
 	- Update Contacts to version 1.5.16
+	- Moved Contacts to privapp
 v2.0.0
     - Update to the Pixel Dialer(5.1.13) and Contacts(1.4.22) 
 v1.0.0
